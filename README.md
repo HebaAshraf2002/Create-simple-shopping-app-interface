@@ -12,4 +12,4 @@ create a simplified version of a shopping app interface
 - Each product includes an "Add to Cart" button that shows a notification when clicked.
 4. Hot Offers Section:
 - A horizontally scrollable list of promotional offers with images and titles
-- 
+  
