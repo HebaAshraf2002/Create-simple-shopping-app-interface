@@ -1,6 +1,6 @@
 # Create-simple-shopping-app-interface
 # Overview
-create a simplified version of a shopping app interface
+- create a simplified version of a shopping app interface
 # What This Code Does
 1. Main Page Layout:
 - A top app bar displaying the title "Shopping App."
